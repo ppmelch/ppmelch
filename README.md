@@ -1,11 +1,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ppmelch) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ppmelch)
-[![Outlook](https://www.vecteezy.com/png/49116759-microsoft-outlook-icon-transparent-background.png)](mailto:jose.melchor@iteso.mx)
+[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/587/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://linkedin.com/in/ppmelch)
 
-<a href="mailto:jose.melchor@iteso.mx">
-  <img src="https://www.vecteezy.com/png/49116759-microsoft-outlook-icon-transparent-background.png" alt="Outlook" width="40">
-</a>
 
 
 # 💻 Tech Stack:

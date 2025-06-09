@@ -1,7 +1,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ppmelch) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ppmelch)
-[![Email](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:jose.melchor@iteso.mx)
+[![Outlook](https://www.vecteezy.com/png/49116759-microsoft-outlook-icon-transparent-background.png)](mailto:jose.melchor@iteso.mx)
 
 
 # 💻 Tech Stack:

@@ -14,7 +14,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-239120?style=for-the-badge&logo=visual-basic&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white)
 
 
 # 📖 Libraries:
